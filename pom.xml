@@ -31,8 +31,8 @@
                 </sonar.host.url>
                <sonar.token>sqp_0ffe4ceb793376deb9f62c55e5446b01cefe5c14
                </sonar.token>
-               <sonar.login>admin</sonar.login>
-	       <sonar.password>Gayathri@987654321</sonar.password>
+               <!--sonar.login>admin</sonar.login>
+	       <sonar.password>Gayathri@987654321</sonar.password--!>
             </properties>
         </profile>
      </profiles>
